@@ -8,3 +8,6 @@ seaborn
 statsmodels
 scikit-learn
 pandas-profiling
+ipywidgets
+--upgrade pandas-profiling
+--upgrade ipywidgets
