@@ -2,7 +2,7 @@ jupyterlab
 matplotlib
 numpy
 pandas
-Plotly
+plotly
 scipy
 seaborn
 statsmodels
