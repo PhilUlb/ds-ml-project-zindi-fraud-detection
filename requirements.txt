@@ -11,3 +11,4 @@ pandas-profiling
 ipywidgets
 --upgrade jupyterlab
 --upgrade ipywidgets
+imblearn
